@@ -45,7 +45,7 @@ Netlify will handle the rest!
 
 Made with ❤️ by **Anish Mukherjee**  
 🔗 [LinkedIn](https://www.linkedin.com/in/anish-mukherjee/)  
-✉️ anish.email@example.com
+✉️ mukherjeeanish220@gmail.com
 
 ---
 
