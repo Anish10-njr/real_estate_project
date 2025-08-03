@@ -57,6 +57,6 @@ This project is open-source and available under the [MIT License](https://openso
 
 ## 🔗 GitHub Repository
 
-👉 [https://github.com/yourusername/real-estate-frontend](https://github.com/yourusername/real-estate-frontend) *(replace this with your actual repo link)*
+👉 [https://github.com/Anish10-njr/real_estate_project.git](https://github.com/Anish10-njr/real_estate_project.git) 
 
 
